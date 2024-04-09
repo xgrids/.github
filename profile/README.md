@@ -1,3 +1,5 @@
+https://github.com/xgrids/.github/assets/10045305/569d523c-c7a0-4a15-8e0a-56335debd3c7
+
 ##                                                              Company Overview
 
   XGRIDS is committed to building more comprehensive 3D spatio-temporal intelligence technology and bridging the physical and digital worlds for a shared future.
